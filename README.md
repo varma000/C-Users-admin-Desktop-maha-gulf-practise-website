@@ -1,3 +1,3 @@
 diployment
 sudo /root/deploy-mahagul
-example
+HELLO

@@ -37,7 +37,7 @@ const KHDAPage = () => {
               MAHA Gulf is proud to be approved by KHDA (Knowledge and Human
               Development Authority) in Dubai. This approval demonstrates our
               commitment to providing high-quality, government-recognized
-              training courses for individuals and businesses across UAE.
+              training courses for individuals and businesses across UAE. 
             </p>
           </div>
         </div>
