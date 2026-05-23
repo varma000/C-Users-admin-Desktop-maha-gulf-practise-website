@@ -1,2 +1,3 @@
 diployment
-sudo /root/deploy-mahagulf.sh
+sudo /root/deploy-mahagul
+example
