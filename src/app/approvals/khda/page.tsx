@@ -13,7 +13,7 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "KHDA Approved Training And Courses in Dubai | MAHA Gulf",
   description:
-    "MAHA Gulf is a KHDA approved training And Courses in Dubai. We offer government-recognized training programs for professionals and organizations in UAE.",
+    "AL MAHA Gulf is a KHDA approved training And Courses in Dubai. We offer government-recognized training programs for professionals and organizations in UAE.",
 };
 
 const KHDAPage = () => {
